@@ -1,0 +1,13 @@
+■サーバー監視用twitter bot
+・tw_lib.pm
+　tweet用共通モジュール
+
+・tw_uptime.pl
+　負荷ツイート
+
+・tw_disk.pl
+　ディスク容量ツイート
+
+
+http://twitter.com/#!/syslogtan
+
